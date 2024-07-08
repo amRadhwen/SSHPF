@@ -1,6 +1,6 @@
 # SSHPF
 <ul>
--Connect to the administrator user account on the Host computer<br/>
+-<li>Connect to the administrator user account on the Host computer</li>
 -Copy file "sshpf.cmd" to usb drive.<br/>
 -Insert usb drive in host computer<br/>
 -Copy file "sshpf.cmd" to directory "C:\"<br/>
