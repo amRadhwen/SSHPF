@@ -1,16 +1,16 @@
 # SSHPF
 -Connect to the administrator user account on the Host computer<br/>
--Copy file "sshpf.cmd" to usb drive.
--Insert usb drive in host computer
--Copy file "sshpf.cmd" to directory "C:\"
--Click right on "sshpf.cmd" then click "run as administrator"
--Click "yes"
--Terminal window must be opened with text message asking for "IP ADDRESS" input
--Type the given IP ADDRESS "the IP address of the guest" and press "ENTER"
--Another text message asking for "PORT" number input
--Type the "PORT" number given by the guest then press "ENTER"
--Another text message asking for accepting the SHA-256 Key chain exchange confirmation "yes/no"
--Type "yes" then press "Enter"
--Another text asking for user password input
--Type the given password then press "ENTER"
+-Copy file "sshpf.cmd" to usb drive.<br/>
+-Insert usb drive in host computer<br/>
+-Copy file "sshpf.cmd" to directory "C:\"<br/>
+-Click right on "sshpf.cmd" then click "run as administrator"<br/>
+-Click "yes"<br/>
+-Terminal window must be opened with text message asking for "IP ADDRESS" input<br/>
+-Type the given IP ADDRESS "the IP address of the guest" and press "ENTER"<br/>
+-Another text message asking for "PORT" number input<br/>
+-Type the "PORT" number given by the guest then press "ENTER"<br/>
+-Another text message asking for accepting the SHA-256 Key chain exchange confirmation "yes/no"<br/>
+-Type "yes" then press "Enter"<br/>
+-Another text asking for user password input<br/>
+-Type the given password then press "ENTER"<br/>
 -Finally minimize the Terminal windows then change the computer user without disconnecting.
