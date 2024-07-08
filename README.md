@@ -1,4 +1,5 @@
 # SSHPF
+<ul>
 -Connect to the administrator user account on the Host computer<br/>
 -Copy file "sshpf.cmd" to usb drive.<br/>
 -Insert usb drive in host computer<br/>
@@ -14,3 +15,4 @@
 -Another text asking for user password input<br/>
 -Type the given password then press "ENTER"<br/>
 -Finally minimize the Terminal windows then change the computer user without disconnecting.
+</ul>
